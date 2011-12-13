@@ -1,0 +1,60 @@
+/* Styole resets for Scarlett Parissa */
+
+/* Reset elements */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	list-style: none;
+}
+
+/* Give display block to HTML5 elements */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block }
+
+/* Font normalization */
+body {
+	font: 13px/1.231 sans-serif;
+	*font-size: small;
+}
+
+select, input, textarea, button { font:99% sans-serif }
+
+/* Force scrollbar in non-IE */
+html { overflow-y: scroll }
+
+/* IE remove textarea scrollbars */
+textarea { overflow: auto }
+
+/* Hand cursor on clickable input elements */
+label,
+input[type="button"],
+input[type="submit"],
+input[type="image"],
+button { cursor: pointer }
+
+/* Make buttons play nice in IE */
+button {
+	width: auto;
+	overflow: visible;
+}
+
+/* Hide for screenreaders and browsers */
+.hidden {
+	display: none;
+	visibility: hidden;
+}
+
+/* Hide visually but not for screenreaders */
+.visuallyhidden {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}

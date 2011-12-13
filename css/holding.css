@@ -1,0 +1,20 @@
+/* Styles for holding page only */
+html, body {
+	margin:0;
+	padding:0;
+}
+
+body {
+	color:#979797;
+	background:#111 url(../img/holding-ribbon.png) no-repeat top right;
+	font-family:Verdana, Helvetica, sans-serif;
+	font-size:0.8em;
+}
+
+#content {
+	width:488px;
+	margin:auto;
+	margin-top:100px;
+}
+
+#content img { margin-bottom:20px; }
