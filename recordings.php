@@ -28,6 +28,15 @@
 			<div class="cushycms">
 				<p>Below is a selection of my professional recordings.</p>
 				<h2>Songs</h2>
+                <h3>Jar of Hearts</h3>
+                <small>Christina Perri version by Christina Perri Drew Lawrence and Barrett Yeretsian</small>
+                <p>
+                    <object height="81" width="100%">
+                        <param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F38897676&amp;show_comments=false&amp;auto_play=false&amp;color=e10e0e">
+                        <param name="allowscriptaccess" value="always">
+                        <embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F38897676&amp;show_comments=false&amp;auto_play=false&amp;color=e10e0e" type="application/x-shockwave-flash" width="100%">
+                    </object>
+                </p>
 				<h3>Songbird</h3>
 				<small>Eva Cassidy version by Christine McVie</small>
 				<p>
